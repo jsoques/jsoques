@@ -1,4 +1,9 @@
-### Hi there 👋
+### Javier Soques
+
+- 🔭 I’m currently working on NestJS and NetCore backends with Angular/Ionic and Blazor Webassembly clients
+- 🌱 I’m currently learning Rust, React and Kubernetes...and the guitar...
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jsoques)
 
 <!--
 **jsoques/jsoques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
