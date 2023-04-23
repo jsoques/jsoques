@@ -1,7 +1,7 @@
 ### Javier Soques
 
-- 🔭 I’m currently working on NestJS and NetCore backends with Angular/Ionic/React and Blazor Webassembly clients
-- 🌱 I’m currently learning Rust and Kubernetes...and the guitar...
+- 🔭 I’m currently working on FastAPI backend with Svelte & Angular/Ionic frontend clients
+- 🌱 I’m currently learning Go and everything DevOps with my small board computer cluster home lab...and the guitar (still)...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jsoques)
 
