@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Go and everything DevOps with my small board computer cluster home lab...and the guitar (still)...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jsoques)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsoques&layout=compact&hide=css,javascript,markdown&theme=light)
 
 <!--
 **jsoques/jsoques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
