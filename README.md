@@ -1,6 +1,6 @@
 ### Javier Soques
 
-- 🔭 I’m currently working on FastAPI backend with Svelte & Angular/Ionic frontend clients
+- 🔭 I’m currently working on FastAPI backend with HTMX frontend clients
 - 🌱 I’m currently learning Go and everything DevOps with my small board computer cluster home lab...and the guitar (still)...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jsoques)
